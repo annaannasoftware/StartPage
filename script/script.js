@@ -107,7 +107,7 @@ const CONFIGObj = {
       category: 'Other',
       name: 'Reddit',
       key: 'r',
-      url: 'https://reddit.com',
+      url: 'https://reddit.com/',
       search: '/search?q={}',
       color: 'linear-gradient(135deg, #FF8456, #FF4500)',
       icon: 'reddit',
